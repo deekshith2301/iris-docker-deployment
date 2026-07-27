@@ -8,4 +8,19 @@ pinned: false
 short_description: Iris_Species_Prediction
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# 🌸 Iris Species Prediction
+
+A machine learning web application that predicts the Iris flower species using a trained Scikit-learn model.
+
+## 🚀 Live Demo
+
+https://iris-docker-deployment.onrender.com
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas
+- Scikit-learn
+- Gradio
+- Docker
+- Render
