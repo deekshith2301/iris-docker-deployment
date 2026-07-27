@@ -10,7 +10,7 @@ short_description: Iris_Species_Prediction
 
 # 🌸 Iris Species Prediction
 
-A machine learning web application that predicts the Iris flower species using a trained Scikit-learn model.
+A Basic machine learning web application that predicts the Iris flower species using a trained Scikit-learn model that is used for understanding end to end deployement of docker file.
 
 ## 🚀 Live Demo
 
